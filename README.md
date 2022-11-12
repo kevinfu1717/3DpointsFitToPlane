@@ -1,8 +1,9 @@
-<img src="https://ai-studio-static-online.cdn.bcebos.com/4e991fa3522f4779ba717b145f28415138b1eece46c74dcd93da94f396b82bda" width="300px" />
-<img src="https://ai-studio-static-online.cdn.bcebos.com/32c22f28f93c4cc98a08617bd8981d3664829e1c72fe4dff9dd3def04183a4fe" width="300px" />
+<img src="https://ai-studio-static-online.cdn.bcebos.com/4e991fa3522f4779ba717b145f28415138b1eece46c74dcd93da94f396b82bda" width="300px" /> <img src="https://ai-studio-static-online.cdn.bcebos.com/32c22f28f93c4cc98a08617bd8981d3664829e1c72fe4dff9dd3def04183a4fe" width="300px" />
    
 
 # 1 概述
+
+- aistudio项目地址：https://aistudio.baidu.com/aistudio/projectdetail/3988461
 
 <img src="https://ai-studio-static-online.cdn.bcebos.com/c92db0f73f6b497e8714259eba088b7cdb16ec8f14a64085a9db483dbc90192b" width="600px" />
 
