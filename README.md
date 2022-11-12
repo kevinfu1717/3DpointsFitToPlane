@@ -3,7 +3,7 @@
 
 # 1 概述
 
-使用三种方法进行三维点云拟合：1.PaddlePaddle2.0基础API的NN梯度下降，2. SVD, 3. PCA。支持读取3D点云文件或通过PaddleHub的MiDaS模型把2D图转深度图后获取点云
+使用三种方法进行三维点云拟合：a.PaddlePaddle2.0基础API的NN梯度下降，b. SVD, c. PCA。支持读取3D点云文件或通过PaddleHub的MiDaS模型把2D图转深度图后获取点云。对获得的点云文件进行平面拟合。
 
 - aistudio项目地址：https://aistudio.baidu.com/aistudio/projectdetail/3988461
 
