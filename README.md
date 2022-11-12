@@ -1,5 +1,3 @@
-<img src="https://ai-studio-static-online.cdn.bcebos.com/4e991fa3522f4779ba717b145f28415138b1eece46c74dcd93da94f396b82bda" width="300px" /> <img src="https://ai-studio-static-online.cdn.bcebos.com/32c22f28f93c4cc98a08617bd8981d3664829e1c72fe4dff9dd3def04183a4fe" width="300px" />
-   
 
 # 1 概述
 
@@ -28,6 +26,10 @@
 |SVD，最小二乘法     |是最早期的拟合方法，对真实中有噪声的点云效果差     | 差     |快|
 |PCA主成分分析    |速度快，抗噪声的能力一般，一些异常点会影响整体效果     | 中等     |中|
 |PaddlePaddle动态图的NN梯度下降     |把平面方程z=ax+by+d中的a,b,d作为nn网络的参数， <br>通过求预测的z与实际的z之间均方差作为损失函数， <br>不断调节a,b,d使loss最小（即z最接近实际值），最终求得平面方程    | 好     |慢|
+
+<img src="https://ai-studio-static-online.cdn.bcebos.com/4e991fa3522f4779ba717b145f28415138b1eece46c74dcd93da94f396b82bda" width="300px" /> <img src="https://ai-studio-static-online.cdn.bcebos.com/32c22f28f93c4cc98a08617bd8981d3664829e1c72fe4dff9dd3def04183a4fe" width="300px" />
+   
+
 
 ## 1.3 三种获取三维点云的方法：
 
